@@ -10,6 +10,7 @@ Where "your_executable" is the name of your compiled project to be tested
 run_script_from_in_here
 -----------------------
 Because many files are generated for the tests, execute do_tests.bash from this directory:
+create this directory
 cd run_scripts_from_in_here
 bash ../do_tests.bash ../../somewhere/my_strsub_program
 
